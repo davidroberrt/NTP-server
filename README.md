@@ -4,6 +4,7 @@ NTP Client to Server.
 *Para configurar um computador com Windows 10 como um servidor NTP, você pode seguir estas etapas:*
 
 Configurar o Serviço de Hora do Windows:
+
 O Windows possui um serviço embutido para sincronização de hora chamado "Windows Time Service" (W32Time). Vamos configurá-lo para agir como um servidor NTP.
 Editar o Registro do Windows:
 Abra o Editor de Registro do Windows. Pressione Win + R, digite regedit e pressione Enter.
